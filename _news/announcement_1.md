@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have started my Ph.D. journey at Cornell working with [Prof. Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/).
+I have started my Ph.D. journey at Cornell working with [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/).
