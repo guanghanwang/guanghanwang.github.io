@@ -24,10 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year Computer Science Ph.D. student at Cornell Tech in New York City, where I am advised by [Prof. Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/). I develop principled training and inference methods for diffusion language models.
+I am a Computer Science Ph.D. candidate at Cornell University (Cornell Tech) in New York City, advised by [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/).
 
+My research focuses on **foundation model training and inference**, with a particular emphasis on **diffusion language models**. I develop algorithms for efficient pretraining, reinforcement learning, and inference-time generation.
 
-Before coming to Cornell, I earned my bachelor’s degree in Computer Science and Technology from Tsinghua University with honor (2020-2024). In 2023, I spent a wonderful summer at CMU collaborating with [Prof. Jian Ma](https://www.cs.cmu.edu/~jianma/).
+I am currently a Research Intern at Amazon, where I have been studying the pretraining efficiency and scaling laws of diffusion and autoregressive language models.
 
-
-If you'd like to collaborate or discuss research, feel free to reach out at gw354@cornell.edu!
+Previously, I received my B.Eng. in Computer Science from Tsinghua University in 2024 and was a visiting research student at Carnegie Mellon University in 2023.
