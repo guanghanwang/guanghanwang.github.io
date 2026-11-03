@@ -30,4 +30,4 @@ My research focuses on developing **principled and efficient training and infere
 
 I am currently a Research Intern at Amazon, where I have been studying the pretraining efficiency and scaling laws of diffusion and autoregressive language models.
 
-Previously, I received my B.Eng. in Computer Science from Tsinghua University in 2024 and was a visiting research student at Carnegie Mellon University in 2023.
+Previously, I received my B.Eng. in Computer Science and Technology from Tsinghua University in 2024 and was a visiting research student at Carnegie Mellon University in 2023.
