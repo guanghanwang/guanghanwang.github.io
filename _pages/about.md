@@ -26,7 +26,7 @@ latest_posts:
 
 I am a Computer Science Ph.D. candidate at Cornell University (Cornell Tech) in New York City, advised by [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/).
 
-My research focuses on **foundation model training and inference**, with a particular emphasis on **diffusion language models**. I develop algorithms for efficient pretraining, reinforcement learning, and inference-time generation.
+My research focuses on developing **principled and efficient training and inference algorithms for foundation models**, with an emphasis on **generative modeling**. My work spans pretraining, reinforcement learning, and inference-time generation.
 
 I am currently a Research Intern at Amazon, where I have been studying the pretraining efficiency and scaling laws of diffusion and autoregressive language models.
 
